@@ -43,7 +43,7 @@ VRP-Solver/
 ├── main.py                  # Tkinter GUI application (VRPSolver)
 ├── location.py              # Location model & drawing utilities
 ├── Chromosome.py              # Forming parents & Child Node
-├── .py    
+├── vrp_solver.py    
 ├── genetic_algorithm.py     # Genetic Algorithm implementation
 ├── assets/                  # UI screenshots & icons
 │   ├── ui_main.png
