@@ -16,13 +16,10 @@ This project is designed for **academic use, hackathons, and optimization resear
 > 📌 *Replace the image paths below with actual screenshots from your application.*
 
 ### Main Application Window
-![Main UI](assets/ui_main.png)
+![Main UI](img/MAIN_UI.png)
 
 ### Route Visualization
-![Route Visualization](assets/ui_routes.png)
-
-### Control & Information Panel
-![Info Panel](assets/ui_info.png)
+![Route Visualization](img/add_img.png)
 
 ---
 
