@@ -16,7 +16,7 @@ This project is designed for **academic use, hackathons, and optimization resear
 > 📌 *Replace the image paths below with actual screenshots from your application.*
 
 ### Main Application Window
-![Main UI](img/MAIN_UI.jpg)
+![Main UI](img/Main_UI.jpg)
 
 ### Route Visualization
 ![Route Visualization](img/add_img.jpg)
